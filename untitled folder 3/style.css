@@ -1,0 +1,235 @@
+.home-page .spring-tree-plant-garden-nature-wood-forest-icon-1332981 {
+  width: 20px;
+  height: 22px;
+}
+.sur {
+  display: block;
+  font-size: small;
+}
+.home-page .logo-header {
+  border-radius: 46px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 12px 13px;
+  width: 46px;
+  height: 46px;
+  box-sizing: border-box;
+}
+.home-page .home {
+  margin-right: 16px;
+  width: 136px;
+  overflow-wrap: break-word;
+  font-family: 'Nerko One';
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0.2px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.home-page .post {
+  overflow-wrap: break-word;
+  font-family: 'Nerko One';
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0.2px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.home-page .newsletter {
+  overflow-wrap: break-word;
+  font-family: 'Nerko One';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.home-page .nav {
+  margin: 8px 0 6px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 431.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page .header {
+  background: #2A9D8F;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 38px 131.1px 38px 130px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.home-page .rectangle-104 {
+  background: url('../assets/images/rectangle_104.jpeg') 50% / cover no-repeat;
+  margin-right: 120px;
+  width: 600px;
+  height: 560px;
+}
+.home-page .bersama-lindungi-bumi-kita-untuk-masa-depan {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: 0.2px;
+  line-height: 1.5;
+  color: #272727;
+}
+.home-page .kami-bermimpi-untuk-menanam-lebih-dari-10-juta-pohon-dan-menciptakan-dunia-yang-lebih-indah-dan-asri-untuk-kita-dia-dan-semua-kami-bermimpi-untuk-menanam-lebih-dari-10-juta-pohon-dan-menciptakan-dunia-yang-lebih-indah-dan-asri-untuk-kita-dia-dan-semua-kami-bermimpi-untuk-menanam-lebih-dari-10-juta-pohon-dan-menciptakan-dunia-yang-lebih-indah-dan-asri-untuk-kita-dia-dan-semua-kami-bermimpi-untuk-menanam-lebih-dari-10-juta-pohon-dan-menciptakan-dunia-yang-lebih-indah-dan-asri-untuk-kita-dia-dan-semua {
+  margin: 0 0 48px 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 0.1px;
+  line-height: 1.5;
+  color: #272727;
+}
+.home-page .read-more {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.home-page .button {
+  background: #2A9D8F;
+  display: flex;
+  align-self: flex-start;
+  padding: 11px 11.5px 11px 16px;
+  box-sizing: border-box;
+}
+.home-page .article-1 {
+  margin: 0 0px 22px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home-page .section {
+  background: #C2F3EE;
+  margin-bottom: 120px;
+  display: flex;
+  flex-direction: row;
+  padding: 80px 134.3px 80px 130px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page .tentang-kami {
+  margin: 0 0 80px 3.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  letter-spacing: 0.2px;
+  line-height: 1;
+  color: #06686E;
+}
+.home-page .bertumbuh-adalah-organisasi-non-profit-yang-mempunyai-tujuan-untuk-melindungi-menjaga-merawat-dan-melestarikan-pohon-pohon-yang-ada-di-dunia-serta-kami-akan-terus-menjaga-kestabilan-bumi-lewat-penanaman-dan-penghijauan-lewat-penanaman-dan-penghijauan-ini-juga-kita-dapat-mencegah-berbagai-masalah-seperti-pemanasan-global-polusi-banjir-tanah-longsor-serta-terjaganya-flora-dan-dan-fauna-yang-ada-di-dunia-dan-oleh-dasar-ini-pula-organisasi-bertumbuh-dibuat-kamu-juga-bisa-membantu-bertumbuh-dengan-cara-menjadi-relawan-petani-serta-kamu-juga-bisa-berdonasi-untuk-mendukung-kegiatan-oprasional-kami {
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Nerko One';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 0.1px;
+  line-height: 1.5;
+  color: #337C81;
+}
+.home-page .article {
+  margin: 0 3.5px 120px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page .footer-logo {
+  width: 42px;
+  height: 50px;
+}
+.home-page .logo {
+  border-radius: 50px;
+  border: 3px solid #FFFFFF;
+  margin-bottom: 53px;
+  display: flex;
+  padding: 21px 0;
+  width: 98px;
+  height: 98px;
+  box-sizing: border-box;
+}
+.home-page .support {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  color: #FFFFFF;
+}
+.home-page .contact-us {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.home-page .terms-of-service {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.home-page .privacy-policy {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.home-page .nav-1 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page .section-1 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home-page .footer {
+  background: #2A9D8F;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 88px 130.3px 88px 130px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.home-page {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
